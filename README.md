@@ -2,6 +2,8 @@
 
 A utility for preparing datasets for image-to-image machine learning models with associated prompts and masks.
 
+[Workflows: IMP Dataset Creation and Loading Nodes](https://github.com/MushroomFleet/DJZ-Workflows/tree/main/DJZ-Nodes-Examples/ZenkaiImageMaskPrompt)
+
 ## 📋 Overview
 
 The Zenkai IMP Dataset Preparation Tool simplifies the process of creating properly structured datasets for image-to-image machine learning models. It automates the collection and organization of:
