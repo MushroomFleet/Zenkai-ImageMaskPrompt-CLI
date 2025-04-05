@@ -1,0 +1,12 @@
+# No external dependencies are required for core functionality
+# The script uses only standard library modules:
+# - os
+# - json
+# - shutil
+# - datetime
+# - sys
+# - pathlib
+
+# For future extensions, you might include:
+# pandas
+# pillow
